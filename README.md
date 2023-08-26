@@ -1,2 +1,2 @@
 # EmKa-Academy-FinalProject
-Makine Öğrenmesi Eğitim Sonucunda Final Projesi
+Makine Öğrenmesi Eğitimi / Final Projesi
